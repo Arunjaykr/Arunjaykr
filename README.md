@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Arunjaykr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Arunjaykr/Arunjaykr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Arunjay Kumar!
+🚀 Aspiring Full-Stack Developer | MCA Student at Chandigarh University
+💻 Skilled in HTML, CSS, JavaScript, React.js, Node.js, and MongoDB
+📚 Passionate about building scalable web apps and solving real-world problems.
+🔍 Currently working on e-commerce apps, RESTful APIs, and IoT-based solutions.
+🌱 Learning: Advanced backend architecture & modern front-end frameworks.
+🌍 Open to full-time opportunities
